@@ -1,0 +1,15 @@
+# Build output
+*.axf
+*.hex
+*.elf
+*.map
+Objects/
+Listings/
+
+# Keil temp files
+*.bak
+*.uvguix.*
+*.uvopt
+
+# CMSIS/Pack generated (optional)
+RTE/
